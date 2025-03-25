@@ -12,7 +12,8 @@
 # --------------------------------
 
 bedrock:
-  # The IP address that will listen for connections.
+  # The IP address that will listen for connections. 
+  mc04.mc-node.net:25954
   # Generally, you should only uncomment and change this if you want to limit what IPs can connect to your server.
   #address: 0.0.0.0
   # The port that will listen for connections
